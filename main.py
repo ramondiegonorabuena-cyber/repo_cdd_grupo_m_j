@@ -35,3 +35,7 @@ print(lista)
 print(tupla)
 print(diccionario)
 print(conjunto)
+
+def resta(a,b):
+    return a - b
+print(resta(10,5))
